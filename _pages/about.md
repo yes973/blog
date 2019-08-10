@@ -2,14 +2,23 @@
 
 title: "About me & page"
 permalink: /about/
-layout: single
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 last_modified_at: 2019-08-10T12:42:38-04:00
 
 toc: true
 
 ---
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg" alt="">{% endraw %}
+{% raw %}<img src="https://yes973.github.com/blog/assets/images/profile.jpg" alt="">{% endraw %}
 
 ## 1. 소개
 
