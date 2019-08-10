@@ -15,18 +15,18 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
-title                    : "울트론님 당신이 옳았습니다.. "
+locale                   : "en-US"
+title                    : " Isaac Yang's Vet/Tech blog "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Isaac Yang"
-description              : "Vet, Data-villain"
+description              : "Veterinarian, Novice S/W Developer, Data-villain"
 url                      : "https://yes973.github.io"
 baseurl                  : "/blog"
 repository               : "yes973/blog"
 teaser                   : "/assets/images/teaser_500x300.png"
 logo                     : "/assets/images/logo_50x50.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " Isaac Yang "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Isaac Yang"
-  avatar           : "/assets/images/profile_300x300.jpg"
+  avatar           : "/assets/images/profile_300x300.png"
   bio              : "Veterinarian, Novice s/w developer, Data-villain"
   location         : "Seoul, South Korea"
   email            : "yes973@naver.com"
