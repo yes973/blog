@@ -11,7 +11,7 @@ toc: true
 
 ---
 
-{% raw %}<img src="/assets/images/profile.jpg" alt="">{% endraw %}
+<img src="/assets/images/profile.jpg" alt="">
 
 ## 1. 소개
 
