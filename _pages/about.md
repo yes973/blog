@@ -9,7 +9,7 @@ toc: true
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg" alt="Profile">
+<img src="{{site.url}}{{site.baseurl}}/assets/images/profile.jpg" alt="Profile">
 
 ## 1. 소개
 
