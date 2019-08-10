@@ -118,7 +118,7 @@ author:
       # url: mailto:yes973@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "app.petner.kr"
+      url: "https://app.petner.kr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
