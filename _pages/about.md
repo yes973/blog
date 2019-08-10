@@ -16,7 +16,7 @@ IT기술에 관심 많은 수의사.<br>
 반려동물 헬스케어 스타트업 [펫트너](https://app.petner.kr)에서 근무하고 있습니다. <br>
 수의학과 데이터분석이 주요 관심사입니다.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg)
+![this is it]({{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg)
 
 
 ## 2. 커리어
