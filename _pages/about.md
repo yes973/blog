@@ -3,8 +3,6 @@
 title: "About me & page"
 permalink: /about/
 layout: single
-header:
-  image: /assets/images/profile.jpg
 last_modified_at: 2019-08-10T12:42:38-04:00
 
 toc: true
