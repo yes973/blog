@@ -1,6 +1,6 @@
 ﻿---
 
-title: "워드프레스에서 깃허브 페이지로 이사"
+title: "Migration to gitpages"
 date: 2019-08-10
 toc: true
 categories:
