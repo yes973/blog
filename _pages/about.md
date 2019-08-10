@@ -39,14 +39,19 @@ toc: true
    - Web Crawling Libraries (Urllib, Selenium)
    - Machine Learning Libraries (Tensorflow, Keras)
    - Natural Language Processing Libraries (NLTK, KoNLPy, Gensim)
+   
  - R
+ 
  - Database / SQL
    - Postgresql
+   
  - ETC
-   - Git, Slack, Notion, AWS EC2, WordPress
+   - Git, AWS EC2
+   - Slack, Notion
+   - WordPress
 
 ## 페이지
 
-워드프레스 쓰다가 영 무거워서 깃으로 이사왔습니다.
-주로 데이터분석과 기술적인 부분에 대한 내용으로 채워질 예정입니다.
+워드프레스 쓰다가 영 무거워서 깃으로 이사왔습니다.<br>
+주로 데이터분석과 기술적인 부분에 대한 내용으로 채워질 예정입니다.<br>
 여행 이야기도 할 수 있으면 좋겠네요.
