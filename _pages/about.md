@@ -9,6 +9,8 @@ toc: true
 
 ---
 
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg" alt="Profile">{% endraw %}
+
 ## 1. 소개
 
 IT기술에 관심 많은 수의사.<br>
