@@ -2,6 +2,7 @@
 
 title: "About me & page"
 permalink: /about/
+layout: single
 last_modified_at: 2019-08-10T12:42:38-04:00
 
 toc: true
