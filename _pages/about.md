@@ -11,7 +11,7 @@ toc: true
 
 ## 소개
 
-면허값 못 하는 수의사. 수의학과 데이터분석, 머신러닝이 주요 관심사입니다.
+면허값 못 하는 수의사. 수의학과 데이터분석, 머신러닝이 주요 관심사입니다. <br>
 반려동물 헬스케어 스타트업 펫트너에서 잡무를 담당하고 있습니다.
 
 
@@ -35,15 +35,15 @@ toc: true
 ### 스킬셋
 
  - Python
-  - Anaconda, Jupyter Notebook
-  - Web Crawling Libraries (Urllib, Selenium)
-  - Machine Learning Libraries (Tensorflow, Keras)
-  - Natural Language Processing Libraries (NLTK, KoNLPy, Gensim)
+   - Anaconda, Jupyter Notebook
+   - Web Crawling Libraries (Urllib, Selenium)
+   - Machine Learning Libraries (Tensorflow, Keras)
+   - Natural Language Processing Libraries (NLTK, KoNLPy, Gensim)
  - R
  - Database / SQL
-  - Postgresql
+   - Postgresql
  - ETC
-  - Git, Slack, Notion, AWS EC2, WordPress
+   - Git, Slack, Notion, AWS EC2, WordPress
 
 ## 페이지
 
