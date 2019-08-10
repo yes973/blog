@@ -9,14 +9,14 @@ toc: true
 
 ---
 
-<img src="/assets/images/profile.jpg" alt="">
 
 ## 1. 소개
 
 IT기술에 관심 많은 수의사.<br>
-수의학과 데이터분석이 주요 관심사입니다. <br>
-반려동물 헬스케어 스타트업 [펫트너](https://app.petner.kr)에서 <br>
-잡무를 담당하고 있습니다.
+반려동물 헬스케어 스타트업 [펫트너](https://app.petner.kr)에서 근무하고 있습니다. <br>
+수의학과 데이터분석이 주요 관심사입니다.
+
+<img src="/assets/images/profile.jpg" alt="">
 
 
 ## 2. 커리어
