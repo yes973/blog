@@ -16,19 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Isaac Yang's Vet/Tech blog "
+title                    : " var Yang ;"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Vet/Tech blog"
 name                     : "Isaac Yang"
-description              : "Veterinarian, 
-Novice S/W Developer, 
-Data-villain"
+description              : "Veterinarian, Novice S/W Developer, Data-villain"
 url                      : "https://yes973.github.io"
 baseurl                  : "/blog"
 repository               : "yes973/blog"
 teaser                   : "/assets/images/teaser_500x300.png"
-logo                     : "/assets/images/logo_500x300.png"
-masthead_title           : " Human? "
+logo                     : # "/assets/images/logo_500x300.png"
+masthead_title           : # " Human? "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
