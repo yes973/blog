@@ -9,7 +9,7 @@ toc: true
 
 ---
 
-<img src="{{site.url}}{{site.baseurl}}/assets/images/profile.jpg" alt="Profile">
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg" alt="">{% endraw %}
 
 ## 1. 소개
 
