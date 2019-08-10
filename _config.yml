@@ -20,7 +20,7 @@ title                    : " var Yang ;"
 title_separator          : "-"
 subtitle                 : "Vet/Tech blog"
 name                     : "Isaac Yang"
-description              : "Veterinarian, Data Analyst"
+description              : "Isaac Yang's Vet/Tech blog"
 url                      : "https://yes973.github.io"
 baseurl                  : "/blog"
 repository               : "yes973/blog"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Isaac Yang"
   avatar           : "/assets/images/profile_300x300.png"
-  bio              : "Veterinarian, Novice s/w developer, Data-villain"
+  bio              : "Veterinarian, Data Analyst"
   location         : "Seoul, South Korea"
   email            : "yes973@naver.com"
   links:
