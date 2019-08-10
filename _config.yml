@@ -20,12 +20,14 @@ title                    : " Isaac Yang's Vet/Tech blog "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Isaac Yang"
-description              : "Veterinarian, Novice S/W Developer, Data-villain"
+description              : "Veterinarian, 
+Novice S/W Developer, 
+Data-villain"
 url                      : "https://yes973.github.io"
 baseurl                  : "/blog"
 repository               : "yes973/blog"
 teaser                   : "/assets/images/teaser_500x300.png"
-logo                     : "/assets/images/logo_50x50.png"
+logo                     : "/assets/images/logo_500x300.png"
 masthead_title           : " Isaac Yang "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
