@@ -1,9 +1,12 @@
 ﻿# [Isaac Yang's Vet/Tech blog Repository ](https://yes973.github.io/blog/)
 
-Github Pages와 Jekyll 기반으로 구축한 개인 레포지토리입니다.
+Github Pages와 Jekyll 기반으로 구축한 개인 블로그 레포지토리입니다.
 
 Minimal Mistakes 테마를 적용, 커스터마이징해 사용하고 있습니다.
 
+블로그 내부 컨텐츠(포스트)에 대한 저작권은 저에게 있습니다.
+
+문의 : 
 
 ---
 
