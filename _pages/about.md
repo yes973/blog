@@ -4,14 +4,14 @@ title: "About me & page"
 permalink: /about/
 layout: single
 header:
-  image: https://yes973.github.com/blog/assets/images/profile.jpg
+  image: /assets/images/profile.jpg
 last_modified_at: 2019-08-10T12:42:38-04:00
 
 toc: true
 
 ---
 
-{% raw %}<img src="https://yes973.github.com/blog/assets/images/profile.jpg" alt="">{% endraw %}
+{% raw %}<img src="/assets/images/profile.jpg" alt="">{% endraw %}
 
 ## 1. 소개
 
