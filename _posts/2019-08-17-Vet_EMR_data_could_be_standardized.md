@@ -1,22 +1,15 @@
 ﻿---
  
-title: "Analysis of animal clinics using MRA"
-date: 2019-08-15
+title: "Vet EMR data could be standardized?"
+date: 2019-08-17
 toc: true
 categories:
 
-  - Article Review
-
-tags:
-
   - Veterinary
-  - Statistics
-  - Data Analysis
-  - R
-
+  
 ---
 
-# 다중회귀분석을 통한 동물병원 입지 요인 분석
+# 수의 의료정보는 표준화 될 수 있을까?
 
 
 ## 개요
