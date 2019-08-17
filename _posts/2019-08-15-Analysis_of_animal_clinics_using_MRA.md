@@ -5,11 +5,17 @@ date: 2019-08-15
 toc: true
 categories:
 
-  - Analysis, Veterinary, Statistics, Review
+  - Analysis
+  - Veterinary
+  - Statistics
+  - Review
   
 ---
 
 # 다중회귀분석을 통한 동물병원 입지 요인 분석
+
+
+## 개요
 
 공공 데이터를 이용하여 동물병원의 사업체수에 미치는 영향 요인을 분석한 논문이다.
 
@@ -17,7 +23,7 @@ categories:
 
 [여기를 눌러](http://www.riss.kr/search/download/FullTextDownload.do?control_no=244437e0132fb71dffe0bdc3ef48d419&p_mat_type=be54d9b8bc7cdb09&p_submat_type=f1a8c7a1de0e08b8&fulltext_kind=a8cb3aaead67ab5b&t_gubun=&convertFlag=&naverYN=&outLink=&searchGubun=true&colName=bib_t&DDODFlag=&loginFlag=1&url_type=&query=%EC%88%98%EC%9D%98%EB%A3%8C&nationalLibraryLocalBibno=) 원문을 볼 수 있다
 
-## 개요
+## 내용
 
 아주 테크니컬한 분석방법이 쓰인 건 아니고, 성남에 소재한 동물병원의 사업체수를 종속변수로, 다른 여러 변수들(20~39세여성인구
 수, 공동주택세대수, 사업체수, 도시공원수, 의료기관수 ...)를 독립변수로 선정해 MRA를 했다는 내용이다.
