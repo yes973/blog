@@ -6,6 +6,11 @@ toc: true
 categories:
 
   - columns
+
+tags:
+
+  - Veterinary
+  - Data
   
 ---
 
