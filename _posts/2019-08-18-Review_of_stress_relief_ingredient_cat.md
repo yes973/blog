@@ -1,6 +1,6 @@
 ﻿---
  
-title: "Review of stress relief ingredient : cat"
+title: "고양이의 스트레스 완화 보조제 및 성분 간단 리뷰"
 date: 2019-08-18
 toc: true
 categories:
@@ -16,7 +16,6 @@ tags :
   
 ---
 
-# 고양이의 스트레스 완화 보조제 및 성분 간단 리뷰
 
 ## 개요
 

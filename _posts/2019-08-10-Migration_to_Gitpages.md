@@ -1,6 +1,7 @@
 ﻿---
 
-title: "Migration to gitpages"
+title: "워드프레스와 함께한 1년
+"
 date: 2019-08-10
 toc: true
 categories:
@@ -13,8 +14,6 @@ tags:
   - github
 
 ---
-
-# 워드프레스와 함께한 1년
 
 ## 왜 wp로 시작했나
 

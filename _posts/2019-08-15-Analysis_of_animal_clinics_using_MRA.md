@@ -1,6 +1,6 @@
 ﻿---
  
-title: "Analysis of animal clinics using MRA"
+title: "다중회귀분석을 통한 동물병원 입지 요인 분석"
 date: 2019-08-15
 toc: true
 categories:
@@ -15,9 +15,6 @@ tags:
   - R
 
 ---
-
-# 다중회귀분석을 통한 동물병원 입지 요인 분석
-
 
 ## 개요
 
