@@ -12,12 +12,12 @@ toc: true
 
 ## 1. 소개
 
-IT기술에 관심 많은 수의사.<br>
-반려동물 헬스케어 스타트업 [펫트너](https://app.petner.kr)에서 근무하고 있습니다. <br>
-수의학과 데이터분석이 주요 관심사입니다.
+특이한 것들에 관심 많은 수의사.<br>
+반려동물 헬스케어 스타트업 [펫트너](https://app.petner.kr)에서 일합니다. <br>
+수의학과 데이터분석을 열심히 배우고 있습니다.
 
 ![profile]({{ site.url }}{{ site.baseurl }}/assets/images/profile_isaac_yang.png)
-
+웹사이트 디폴트 언어가 영어인 것은 허세 때문이 아니라 언어 설정이 꼬여서입니다. ㅠㅠ 전 영어를 잘 못해요
 
 ## 2. 커리어
 

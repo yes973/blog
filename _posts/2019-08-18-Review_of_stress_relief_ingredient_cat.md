@@ -28,7 +28,7 @@ tags :
 
 하지만 인간이 그러하듯 고양이도 세상 모든 스트레스에서 자유로울 순 없는 것이어서, '스트레스 완화 성분'을 포함하는 제품이 나와 있는데 그중 영양제류의 주요성분을 간단히 살펴보면...
 
-## 1. 알파-카소제핀(질켄)
+## 1. 알파-카소제핀
 
 힐스 c/d Multicare Feline Stress 처럼 아예 특정 질환 관리를 위해 처방의 형태로 사용되는 경우는 제외하고, '스트레스 완화'를 내세우는 보조제/영양제 가운데 가장 잘 알려진 것은 질켄인 듯 하다.
 
@@ -40,9 +40,9 @@ A European multicentric, randomized, double-blind, placebo-controlled trial을 �
 
 이때 질켄 투여의 효과가 어느정도 검증된다. (행동변화 성공 : 실패 비율 실험군 10 : 7, 대조군 4 : 13)
 
-## 2. 엘-트립토판
+## 2. 트립토판
 
-트립토판은 세로토닌 합성에 필요하기도 하고, 반려동물의 필수아미노산이기도 하기 때문에 흔히 사료에도 포함되어 있고, 그러다보니 고양이에서 트립토판의 영양학적 기능성에 대한 부분이 인기있는 연구테마는 아니었던 것으로 생각된다.
+엘-트립토판은 세로토닌 합성에 필요하기도 하고, 반려동물의 필수아미노산이기도 하기 때문에 흔히 사료에도 포함되어 있고, 그러다보니 고양이에서 트립토판의 영양학적 기능성에 대한 부분이 인기있는 연구테마는 아니었던 것으로 생각된다.
 
 (*강아지의 경우는 [Effect of dietary protein content and tryptophan supplementation on dominance aggression, territorial aggression, and hyperactivity in dogs](https://avmajournals.avma.org/doi/abs/10.2460/javma.2000.217.504)에서 다루긴 했다만...)
 
@@ -56,13 +56,13 @@ A European multicentric, randomized, double-blind, placebo-controlled trial을 �
 
 ## 3. 테아닌
 
-테아닌은 강아지에서는 그래도 (천둥이나 소리에 대한 공포증이 있는 경우에 대한) 연구결과가 있는데, 고양이 쪽은 부실한 편이다. 아래와 같은 오픈라벨 필드스터디가 몇 개 있긴 하지만, 대조군이 없는 등 잘 설계된 과학적인 결과라고 보긴 좀 그렇고...
+엘-테아닌은 강아지에서는 그래도 (천둥이나 소리에 대한 공포증이 있는 경우에 대한) 연구결과가 있는데, 고양이 쪽은 부실한 편이다. 아래와 같은 오픈라벨 필드스터디가 몇 개 있긴 하지만, 대조군이 없는 등 잘 설계된 과학적인 결과라고 보긴 좀 그렇고...
 
 [Effect of l-theanine tablets in reducingstress-related emotional signs in cats: an open-label field study](https://www.researchgate.net/publication/328180635_Effect_of_l-theanine_tablets_in_reducing_stress-related_emotional_signs_in_cats_An_open-label_field_study)
 
 ## 4. 기타
 
-이외 미배아추출물(뉴플렉스 릴렉스케어), 쥐오줌풀추출물(조공 릴리프) 등이 첨가되기도 하고 나름의 문헌도 있지만 막 Scientific한 근거가 있어 보이진 않음.
+이외 카바추출물(칼멕스 캣), 미배아추출물(뉴플렉스 릴렉스케어), 쥐오줌풀추출물(조공 릴리프) 등이 첨가되기도 하고 나름의 문헌도 있지만 막 Scientific한 근거가 있어 보이진 않음.
 
 
 
