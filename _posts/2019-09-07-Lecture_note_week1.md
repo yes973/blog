@@ -1,3 +1,22 @@
+﻿---
+ 
+title: "딥러닝 데이터분석가 교육과정 필기_1주차"
+date: 2019-09-07
+toc: true
+categories:
+
+  - LectureNote
+
+tags :
+
+  - Machine learning
+  - Deep learning
+  - Data analysis
+  - Tensorflow
+  
+---
+
+
 
 #tensorflow 와 세션
 
