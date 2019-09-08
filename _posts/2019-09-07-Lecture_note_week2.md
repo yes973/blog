@@ -1,5 +1,4 @@
-﻿
----
+﻿---
  
 title: "딥러닝 데이터분석가 교육과정 필기_2주차"
 date: 2019-09-07
@@ -17,7 +16,9 @@ tags :
   
 ---
 
-## 라이브러리 개요
+
+
+# 라이브러리 개요
 Numpy : ndarray :  배열(list, tuple, dict, set) : 동질적인 데이터 저장
 Pandas : Series(열), Dataframe(2차원), Panel(3차원) : 열 내에서는 데이터가 동질적
 Scikits : 머신러닝 패키지 :svm, naive bayes, ann
